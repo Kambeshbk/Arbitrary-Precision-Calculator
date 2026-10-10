@@ -1,0 +1,1 @@
+The Arbitrary Precision Calculator (APC) is a C programming project designed to perform arithmetic operations on very large integers that exceed the limits of standard C data types. It uses a Doubly Linked List to store and process numbers digit by digit.
